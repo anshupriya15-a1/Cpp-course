@@ -16,3 +16,11 @@ int main(){
     getSum(2,10);
     return 0;
 }
+#include<iostram>
+using namespace std;
+class car{
+    string brand;
+    string name;
+    int year;
+}
+void getSum(inta,intb);
